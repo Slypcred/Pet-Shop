@@ -1,0 +1,74 @@
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Google.Protobuf.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\MySql.Data.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Buffers.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Memory.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\ZstdNet.dll
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\BouncyCastle.Crypto.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Google.Protobuf.pdb
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Google.Protobuf.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\MySql.Data.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Buffers.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Memory.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.AssemblyReference.cache
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Form1.resources
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Nuevo.resources
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Eliminar.resources
+C:\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Modificar.resources
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\BouncyCastle.Crypto.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Google.Protobuf.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Hash.xxHash.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\MySql.Data.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Buffers.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Memory.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\ZstdNet.dll
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\BouncyCastle.Crypto.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Google.Protobuf.pdb
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\Google.Protobuf.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\K4os.Hash.xxHash.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\MySql.Data.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Buffers.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Memory.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Numerics.Vectors.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.AssemblyReference.cache
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.SuggestedBindingRedirects.cache
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Eliminar.resources
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Form1.resources
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Modificar.resources
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Nuevo.resources
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\YoProgramo\Proyectos varios\Pet shop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
